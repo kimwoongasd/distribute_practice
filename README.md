@@ -1,1 +1,1 @@
-# distribute_practice
+# 배포 연습용
