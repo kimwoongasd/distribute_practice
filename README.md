@@ -4,6 +4,11 @@
 
 [ec2-43-200-178-150.ap-northeast-2.compute.amazonaws.com](ec2-43-200-178-150.ap-northeast-2.compute.amazonaws.com)
 
+도메인
+
+[http://somsom2.p-e.kr/](http://somsom2.p-e.kr/)
+
 
 - AWS EC2로 서버 대여를 하였습니다.
 - uWSGI와 nginx를 활용하여 static 파일까지 작용되는 http통신을 사용한 배포를 완료했습니다.
+- 도메인 연결완료
