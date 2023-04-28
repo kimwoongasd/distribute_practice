@@ -28,7 +28,8 @@ SECRET_KEY = djnago_pass()
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    ".ap-northeast-2.compute.amazonaws.com"
+    ".ap-northeast-2.compute.amazonaws.com",
+    '.popol.kro.kr',
 ]
 
 
